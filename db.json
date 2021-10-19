@@ -1,5 +1,5 @@
 {
-  movies: [
+  "movies": [
     {
       "title": "Wing Commander",
       "onSale": false,
